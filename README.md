@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 💡 I enjoy learning new skills and languages, and I'm committed to personal and professional growth.
 
 ### Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white)](YourInstagramLink)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YourLinkedInLink)
+[![Instagram](https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/afserr_?igsh=MWh3NGpmYjl4bzBueg==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedziyaafser/)
 
 ### Tech Stack:
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
