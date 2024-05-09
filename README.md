@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ### About Me:
-👨‍💻 I’m a software engineering student at Universiti Teknologi Malaysia, passionate about building and exploring innovative software solutions.
+🎓 I’m a software engineering student at Universiti Teknologi Malaysia, passionate in creating & exploring innovative software solutions.
+
 🚀 I'm actively seeking internship opportunities to apply my skills in real-world projects.
+
 💡 I enjoy learning new skills and languages, and I'm committed to personal and professional growth.
 
 ### Socials:
