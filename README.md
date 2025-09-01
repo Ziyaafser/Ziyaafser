@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### About Me:
-🎓 I’m a software engineering student at Universiti Teknologi Malaysia, passionate in creating & exploring innovative software solutions.
+🎓 Software Engineering graduate from Universiti Teknologi Malaysia with experience in mobile and web development, IPTV systems, and system integration. Skilled in Dart, Java, JavaScript, PHP, SQL, HTML/CSS, with expertise in Flutter, AngularJS, Node.js, Spring Boot, and MicroC/OS-II RTOS.
 
-🚀 I'm actively seeking internship opportunities to apply my skills in real-world projects.
+🚀Proficient in tools such as Firebase, Git/GitHub, Stripe, Docker, Android Studio, VS Code, Jira, Power BI, and Tableau, applying MVC architecture, Agile practices, and system testing in real-world projects. Passionate about building scalable, user-focused applications that make an impact.
 
 💡 I enjoy learning new skills and languages, and I'm committed to personal and professional growth.
 
