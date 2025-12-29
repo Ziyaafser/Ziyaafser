@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+“Daily contributions are made via private company GitHub organization.”
+
 ### About Me:
-🎓 Software Engineering graduate from Universiti Teknologi Malaysia with experience in mobile and web development, IPTV systems, and system integration. Skilled in Dart, Java, JavaScript, PHP, SQL, HTML/CSS, with expertise in Flutter, AngularJS, Node.js, Spring Boot, and MicroC/OS-II RTOS.
+🎓 Software Engineering graduate from Universiti Teknologi Malaysia with experience in mobile and web development, IPTV systems, and system integration. Skilled in Dart, Java, JavaScript, PHP, SQL, HTML/CSS, React Native, Next,js with expertise in Flutter, AngularJS, Node.js, Spring Boot, and MicroC/OS-II RTOS.
 
 🚀Proficient in tools such as Firebase, Git/GitHub, Stripe, Docker, Android Studio, VS Code, Jira, Power BI, and Tableau, applying MVC architecture, Agile practices, and system testing in real-world projects. Passionate about building scalable, user-focused applications that make an impact.
 
